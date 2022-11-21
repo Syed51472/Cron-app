@@ -1,0 +1,19 @@
+{
+  "name": "cronlearn",
+  "version": "1.0.0",
+  "description": "Learning Cron function scheduling",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baqir",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "node-cron": "^3.0.1",
+    "ora": "^6.1.2",
+    "puppeteer": "^15.3.1"
+  }
+}
